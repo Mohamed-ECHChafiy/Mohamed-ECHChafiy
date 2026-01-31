@@ -16,17 +16,16 @@
 ### 🛰️ Routing & Switching
 - **Routing Protocols:** OSPF (Single/Multi-area), EIGRP, RIPv2, Static Routing.
 - **Switching:** VLANs, Inter-VLAN Routing (L3 Switches), STP, Etherchannel.
-- **Redundancy:** HSRP, GLBP, VRRP.
+- **Redundancy:** HSRP, VRRP.
 
 ### 🌐 WAN & Connectivity
-- **WAN Protocols:** PPP (PAP/CHAP), HDLC, Frame-Relay.
+- **WAN Protocols:** PPP (PAP/CHAP).
 - **VPN:** GRE Protocol.
 - **NAT/PAT:** Configuration & Management.
 
 ### 🛠️ Services & Management
 - **Infrastructure Services:** DHCP, DNS.
 - **Monitoring:** SNMP, SYSLOG, NETFLOW.
-- **Maintenance:** IOS Recovery, Password Recovery, License Management.
 
 ---
 
