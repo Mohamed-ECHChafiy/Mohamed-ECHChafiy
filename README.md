@@ -1,60 +1,82 @@
-# <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mohamed%20Ech-chafiy&fontSize=70&animation=fadeIn" width="100%"/>
+# Hi there, I'm Mohamed Ech-chafiy 👋
 
-### 🚀 Network Technician | CCNA Certified | Virtualization Enthusiast 🇲🇦
+🎓 **Networking Trainee @ OFPPT**  
+🌐 **Aspiring Network Engineer | CCNA Certified**
 
----
-
-## 👨‍💻 Mohamed ECH-chafiy
-- 🎓 Trainee at **OFPPT** specializing in Infrastructure & Networks.
-- 🛡️ Focus: **Cisco Routing & Switching, Network Security**.
-- ⚙️ Skilled in building and managing virtual environments.
-- 📍 Location: **Morocco**.
+Welcome to my GitHub profile!  
+I am a motivated networking trainee at **OFPPT**, passionate about computer networks, Cisco technologies, and hands-on lab practice. I enjoy designing, configuring, and troubleshooting network infrastructures using both real devices and simulators like **Cisco Packet Tracer**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Networking Knowledge
 
-### 🛡️ Virtualization & Cloud
-- **Hypervisors Type 1 (Bare Metal):** - ![XenServer](https://img.shields.io/badge/Citrix_XenServer-00A9E0?style=flat-square&logo=citrix&logoColor=white) **XenServer**
-  - ![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white) **VMware ESXi**
-- **Hypervisors Type 2:** VMware Workstation, Oracle VirtualBox.
+### 🌐 Routing & Switching
+- Dynamic Routing Protocols: **OSPF, EIGRP**
+- Switching Technologies: **VLAN, VTP, STP**
+- **EtherChannel** (LACP / PAgP)
+- Inter-VLAN Routing
+- Trunking & Access Ports
 
-### 🛰️ Routing & Switching (Cisco Specialist)
-- **Protocols:** OSPF, EIGRP, RIPv2, Static Routing.
-- **Switching:** VLANs, Inter-VLAN, STP, Etherchannel, L3 Switching.
-- **Redundancy:** HSRP, GLBP, VRRP.
-- **Remote Access:** SSH, Telnet.
+### 🔐 Remote Access & Management
+- **SSH**
+- **Telnet**
+- Basic device hardening
+- Cisco IOS configuration
 
-### 📞 IP Telephony & Advanced Services
-- **VoIP:** Basic configuration of Voice VLANs & IP Phones.
-- **WAN:** PPP (PAP/CHAP), HDLC, VPN (GRE), NAT/PAT.
-- **Management:** SNMP, SYSLOG, NETFLOW, IOS Recovery.
+### 🌍 WAN Technologies
+- **PPP** (PAP / CHAP)
+- **HDLC**
+- **Frame Relay** (Point-to-Point & Multipoint)
+- **GRE Tunneling**
+
+### 📡 IP Services
+- **IPv4 & IPv6** addressing and configuration
+- **NAT & PAT**
+- **DHCP**
+- **DNS (basic concepts)**
+
+### 📊 Monitoring & Network Services
+- **SNMP**
+- **Syslog**
+- **NetFlow**
+- Basic Network Monitoring
+
+### ☁️ Virtualization & Voice
+- **Virtualization**
+  - Type 1 Hypervisors (Bare Metal)
+  - Type 2 Hypervisors (Hosted)
+- **VoIP** (Basic configuration & concepts)
+
+---
+
+## 📚 Education & Certifications
+- 🎓 **OFPPT** – Specialized Technician in Digital Infrastructure *(In Progress)*
+- 📜 **Cisco CCNA** – Routing & Switching
 
 ---
 
-## 💻 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/XenServer-00A9E0?style=for-the-badge&logo=citrix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" />
-</p>
+## 🚀 Projects & Labs
+- **Enterprise Network Lab**
+  - VLANs & Inter-VLAN Routing  
+  - EtherChannel for link redundancy  
+  - Secure remote access using SSH  
+  - WAN connectivity with PPP & GRE  
+
+- **Network Monitoring Lab**
+  - SNMP & Syslog configuration  
+  - Traffic analysis using NetFlow  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[إسم_المستخدم_ديالك]&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
+## 🎯 Career Goal
+To become a **professional Network Engineer**, specialized in enterprise networking, security, and infrastructure virtualization.
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([رابط_لينكدين_ديالك])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.echchafiy@email.com)
+## 📫 Contact Me
+- 💼 **LinkedIn:** *(Add your LinkedIn link here)*
+- 📧 **Email:** *(Add your professional email here)*
 
 ---
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=[إسم_المستخدم_ديالك]&color=blue" alt="Views" />
-</p>
+
+> *"Simplicity is the soul of efficiency."*
