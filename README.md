@@ -1,82 +1,37 @@
 # Hi there, I'm Mohamed Ech-chafiy 👋
 
-🎓 **Networking Trainee @ OFPPT**  
-🌐 **Aspiring Network Engineer | CCNA Certified**
-
-Welcome to my GitHub profile!  
-I am a motivated networking trainee at **OFPPT**, passionate about computer networks, Cisco technologies, and hands-on lab practice. I enjoy designing, configuring, and troubleshooting network infrastructures using both real devices and simulators like **Cisco Packet Tracer**.
+### 👨‍💻 Networking & Infrastructure Enthusiast
+I am a dedicated **OFPPT trainee** and **CCNA Certified** professional with a passion for building, securing, and optimizing network infrastructures. I enjoy solving complex routing and switching puzzles.
 
 ---
 
-## 🛠️ Technical Skills & Networking Knowledge
+## 🚀 Technical Skills & Expertise
 
-### 🌐 Routing & Switching
-- Dynamic Routing Protocols: **OSPF, EIGRP**
-- Switching Technologies: **VLAN, VTP, STP**
-- **EtherChannel** (LACP / PAgP)
-- Inter-VLAN Routing
-- Trunking & Access Ports
+### 🌐 Routing & Switching (CCNA Level)
+* **Protocols:** EIGRP, OSPF, BGP basics.
+* **LAN/WAN Technologies:** VLANs, STP, EtherChannel, Frame-Relay (Point-to-point/Multipoint), PPP (PAP/CHAP) .
+* **Redundancy & Management:** HSRP, SSH, Telnet.
+* **IP Addressing:** IPv4, IPv6 (Transition & Implementation), NAT/PAT.
 
-### 🔐 Remote Access & Management
-- **SSH**
-- **Telnet**
-- Basic device hardening
-- Cisco IOS configuration
+### 🛡️ Security & Monitoring
+* **VPN:** GRE Tunneling & Basic Security.
+* **Monitoring:** SNMP, Syslog, NetFlow.
+* **Access Control:** ACLs (Standard/Extended).
 
-### 🌍 WAN Technologies
-- **PPP** (PAP / CHAP)
-- **HDLC**
-- **Frame Relay** (Point-to-Point & Multipoint)
-- **GRE Tunneling**
-
-### 📡 IP Services
-- **IPv4 & IPv6** addressing and configuration
-- **NAT & PAT**
-- **DHCP**
-- **DNS (basic concepts)**
-
-### 📊 Monitoring & Network Services
-- **SNMP**
-- **Syslog**
-- **NetFlow**
-- Basic Network Monitoring
-
-### ☁️ Virtualization & Voice
-- **Virtualization**
-  - Type 1 Hypervisors (Bare Metal)
-  - Type 2 Hypervisors (Hosted)
-- **VoIP** (Basic configuration & concepts)
+### 📞 Specialized Services & Tech
+* **VoIP:** Basic configuration and Voice over IP implementation.
+* **Virtualization:** Type 1 (Bare Metal) & Type 2 (Hosted) Hypervisors.
 
 ---
 
-## 📚 Education & Certifications
-- 🎓 **OFPPT** – Specialized Technician in Digital Infrastructure *(In Progress)*
-- 📜 **Cisco CCNA** – Routing & Switching
+## 🛠 Tools I Use
+* **Simulation:** Cisco Packet Tracer, GNS3 .
+* **Systems:** Windows Server, Linux (Basics).
 
 ---
 
-## 🚀 Projects & Labs
-- **Enterprise Network Lab**
-  - VLANs & Inter-VLAN Routing  
-  - EtherChannel for link redundancy  
-  - Secure remote access using SSH  
-  - WAN connectivity with PPP & GRE  
-
-- **Network Monitoring Lab**
-  - SNMP & Syslog configuration  
-  - Traffic analysis using NetFlow  
+## 📫 Reach Me Out
+* **LinkedIn:** [Mohamed Ech-chafiy](https://www.linkedin.com/in/mohamed-ech-chafiy-84b791367)
+* **Email:** [mohamedchafiy2003@gmail.com](mailto:mohamedchafiy2003@gmail.com)
 
 ---
-
-## 🎯 Career Goal
-To become a **professional Network Engineer**, specialized in enterprise networking, security, and infrastructure virtualization.
-
----
-
-## 📫 Contact Me
-- 💼 **LinkedIn:** *(Add your LinkedIn link here)*
-- 📧 **Email:** *(Add your professional email here)*
-
----
-
-> *"Simplicity is the soul of efficiency."*
