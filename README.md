@@ -9,7 +9,7 @@ I am an **OFPPT trainee** actively **working toward the CCNA certification**, wi
 
 ### 🌐 Routing & Switching (CCNA Level)  
 - **Protocols:** RIPv2, EIGRP, OSPF, BGP (basics).  
-- **LAN/WAN Technologies:** VLANs, STP, RSTP, VTP, EtherChannel, Frame-Relay (Point-to-Point / Multipoint), PPP (PAP / CHAP).  
+- **LAN/WAN Technologies:** VLANs, STP, RSTP, VTP, EtherChannel, PPP (PAP / CHAP).  
 - **Redundancy & Management:** HSRP, SSH, Telnet.  
 - **IP Addressing:** IPv4, IPv6 (Transition & Implementation), NAT / PAT.
 
