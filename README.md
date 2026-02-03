@@ -11,11 +11,10 @@ I am an **OFPPT trainee** actively **working toward the CCNA certification**, wi
 - **Protocols:** RIPv2, EIGRP, OSPF, BGP (basics).  
 - **LAN/WAN Technologies:** VLANs, STP, RSTP, VTP, EtherChannel, PPP (PAP / CHAP).  
 - **Redundancy & Management:** HSRP, SSH, Telnet.  
-- **IP Addressing:** IPv4, IPv6 (Transition & Implementation), NAT / PAT.
+- **IP Addressing:** IPv4, IPv6, NAT / PAT.
 
 ### 🛡️ Security & Monitoring  
-- **VPN:** GRE Tunneling & basic security concepts.  
-- **Monitoring:** Syslog, NetFlow.  
+- **VPN:** GRE Tunneling & basic security concepts.   
 - **Access Control:** ACLs (Standard & Extended).
 
 ### 🧰 Network Services  
